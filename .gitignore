@@ -1,15 +1,19 @@
 # Build output
 bin/
 obj/
+artifacts/
 
 # Rider project files
 .idea/
 
-# User-specific files
+# Visual Studio / User-specific files
 *.user
 *.suo
 *.userosscache
 *.sln.docstates
+.vs/
+*.vspscc
+*.vssscc
 
 # VS Code settings
 .vscode/
@@ -17,38 +21,31 @@ obj/
 # ASP.NET Core secret settings
 secrets.json
 
-# IIS Express
-.vs/
-*.vspscc
-*.vssscc
-
-# Dotnet CLI
+# Dotnet CLI / NuGet
 project.lock.json
 project.fragment.lock.json
-artifacts/
+*.nupkg
 
 # Logs
 *.log
 logs/
 
-# Npm & Node (if using Angular frontend in same repo)
+# Frontend (Npm & Node.js if using Angular/React/Vue frontend in same repo)
 node_modules/
 dist/
 temp/
 *.tsbuildinfo
-
-# Angular CLI cache
 .angular/cache/
 
-# Environment files (optional)
+# Environment variables
 .env
 .env.*
 
-# OS files
+# Operating System files
 .DS_Store
 Thumbs.db
 
-# Resharper
+# ReSharper
 _ReSharper*/
 *.ReSharper*/
 *.DotSettings.user
@@ -64,5 +61,14 @@ tools/
 # Publish output
 wwwroot/
 
-# Swagger auto-generated files (optional)
+# Swagger auto-generated files
 swagger/
+
+# Local database files (e.g., SQLite, LocalDB)
+*.db
+*.mdf
+*.ldf
+
+# Common Temporary/Junk files
+*.bak
+*.tmp
