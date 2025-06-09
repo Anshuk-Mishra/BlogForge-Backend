@@ -1,0 +1,29 @@
+/Users/anshukmishra/Documents/Developer/Dotnet Projects/BlogForge/Backend/Web API/bin/Debug/net9.0/appsettings.Development.json
+/Users/anshukmishra/Documents/Developer/Dotnet Projects/BlogForge/Backend/Web API/bin/Debug/net9.0/appsettings.json
+/Users/anshukmishra/Documents/Developer/Dotnet Projects/BlogForge/Backend/Web API/bin/Debug/net9.0/Web API.staticwebassets.endpoints.json
+/Users/anshukmishra/Documents/Developer/Dotnet Projects/BlogForge/Backend/Web API/bin/Debug/net9.0/Web API
+/Users/anshukmishra/Documents/Developer/Dotnet Projects/BlogForge/Backend/Web API/bin/Debug/net9.0/Web API.deps.json
+/Users/anshukmishra/Documents/Developer/Dotnet Projects/BlogForge/Backend/Web API/bin/Debug/net9.0/Web API.runtimeconfig.json
+/Users/anshukmishra/Documents/Developer/Dotnet Projects/BlogForge/Backend/Web API/bin/Debug/net9.0/Web API.dll
+/Users/anshukmishra/Documents/Developer/Dotnet Projects/BlogForge/Backend/Web API/bin/Debug/net9.0/Web API.pdb
+/Users/anshukmishra/Documents/Developer/Dotnet Projects/BlogForge/Backend/Web API/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/anshukmishra/Documents/Developer/Dotnet Projects/BlogForge/Backend/Web API/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/anshukmishra/Documents/Developer/Dotnet Projects/BlogForge/Backend/Web API/obj/Debug/net9.0/Web API.csproj.AssemblyReference.cache
+/Users/anshukmishra/Documents/Developer/Dotnet Projects/BlogForge/Backend/Web API/obj/Debug/net9.0/Web API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anshukmishra/Documents/Developer/Dotnet Projects/BlogForge/Backend/Web API/obj/Debug/net9.0/Web API.AssemblyInfoInputs.cache
+/Users/anshukmishra/Documents/Developer/Dotnet Projects/BlogForge/Backend/Web API/obj/Debug/net9.0/Web API.AssemblyInfo.cs
+/Users/anshukmishra/Documents/Developer/Dotnet Projects/BlogForge/Backend/Web API/obj/Debug/net9.0/Web API.csproj.CoreCompileInputs.cache
+/Users/anshukmishra/Documents/Developer/Dotnet Projects/BlogForge/Backend/Web API/obj/Debug/net9.0/Web API.MvcApplicationPartsAssemblyInfo.cs
+/Users/anshukmishra/Documents/Developer/Dotnet Projects/BlogForge/Backend/Web API/obj/Debug/net9.0/Web API.MvcApplicationPartsAssemblyInfo.cache
+/Users/anshukmishra/Documents/Developer/Dotnet Projects/BlogForge/Backend/Web API/obj/Debug/net9.0/Web API.sourcelink.json
+/Users/anshukmishra/Documents/Developer/Dotnet Projects/BlogForge/Backend/Web API/obj/Debug/net9.0/scopedcss/bundle/Web API.styles.css
+/Users/anshukmishra/Documents/Developer/Dotnet Projects/BlogForge/Backend/Web API/obj/Debug/net9.0/staticwebassets.build.json
+/Users/anshukmishra/Documents/Developer/Dotnet Projects/BlogForge/Backend/Web API/obj/Debug/net9.0/staticwebassets.build.json.cache
+/Users/anshukmishra/Documents/Developer/Dotnet Projects/BlogForge/Backend/Web API/obj/Debug/net9.0/staticwebassets.development.json
+/Users/anshukmishra/Documents/Developer/Dotnet Projects/BlogForge/Backend/Web API/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/anshukmishra/Documents/Developer/Dotnet Projects/BlogForge/Backend/Web API/obj/Debug/net9.0/Web API.csproj.Up2Date
+/Users/anshukmishra/Documents/Developer/Dotnet Projects/BlogForge/Backend/Web API/obj/Debug/net9.0/Web API.dll
+/Users/anshukmishra/Documents/Developer/Dotnet Projects/BlogForge/Backend/Web API/obj/Debug/net9.0/refint/Web API.dll
+/Users/anshukmishra/Documents/Developer/Dotnet Projects/BlogForge/Backend/Web API/obj/Debug/net9.0/Web API.pdb
+/Users/anshukmishra/Documents/Developer/Dotnet Projects/BlogForge/Backend/Web API/obj/Debug/net9.0/Web API.genruntimeconfig.cache
+/Users/anshukmishra/Documents/Developer/Dotnet Projects/BlogForge/Backend/Web API/obj/Debug/net9.0/ref/Web API.dll
