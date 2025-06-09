@@ -3,6 +3,9 @@ bin/
 obj/
 artifacts/
 
+**/bin/
+**/obj/
+
 # Rider project files
 .idea/
 
