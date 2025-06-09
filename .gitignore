@@ -1,0 +1,68 @@
+# Build output
+bin/
+obj/
+
+# Rider project files
+.idea/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code settings
+.vscode/
+
+# ASP.NET Core secret settings
+secrets.json
+
+# IIS Express
+.vs/
+*.vspscc
+*.vssscc
+
+# Dotnet CLI
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Logs
+*.log
+logs/
+
+# Npm & Node (if using Angular frontend in same repo)
+node_modules/
+dist/
+temp/
+*.tsbuildinfo
+
+# Angular CLI cache
+.angular/cache/
+
+# Environment files (optional)
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Resharper
+_ReSharper*/
+*.ReSharper*/
+*.DotSettings.user
+
+# Test results
+TestResults/
+*.coverage
+*.coveragexml
+
+# Global tools
+tools/
+
+# Publish output
+wwwroot/
+
+# Swagger auto-generated files (optional)
+swagger/
