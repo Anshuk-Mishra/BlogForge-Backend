@@ -24,9 +24,10 @@ namespace MyApp.Namespace
             return Ok();
         }
 
+        [HttpGet]
         public IActionResult Register([FromHeader] string Email, [FromHeader] string PassHash, [FromHeader] string Name, [FromHeader] DateTime Dob)
         {
-            
+
             return Ok();
         }
     }
