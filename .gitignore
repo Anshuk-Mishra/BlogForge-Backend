@@ -75,3 +75,4 @@ swagger/
 # Common Temporary/Junk files
 *.bak
 *.tmp
+.fake
