@@ -6,10 +6,6 @@ namespace Infrastructure.Data
     public class AppDbContext : DbContext
     {
         public DbSet<Users> Students { get; set; }
-
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            optionsBuilder.UseSqlServer("Dev");
-        }
+        public AppDbContext(DbContextOptions<AppDbContext> dbContextOptions) : base(dbContextOptions){}
     }
 }
