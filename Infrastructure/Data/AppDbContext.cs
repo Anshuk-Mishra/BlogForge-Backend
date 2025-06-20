@@ -5,7 +5,7 @@ namespace Infrastructure.Data
 {
     public class AppDbContext : DbContext
     {
-        public DbSet<Users> Students { get; set; }
+        public DbSet<Users> User { get; set; }
         public AppDbContext(DbContextOptions<AppDbContext> dbContextOptions) : base(dbContextOptions){}
     }
 }

@@ -23,6 +23,13 @@ namespace Domain.Models
         [Required]
         public string PhraseHash { get; set; } = string.Empty;
 
+        [Required]
+        public bool IsActive { get; set; }
+
+        [Required]
+        public DateTime CreatedOn { get; set; }
+
+        [Required]
         public DateTime Dob { get; set; }
     }
 
