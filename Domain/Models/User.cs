@@ -30,6 +30,12 @@ namespace Domain.Models
         public DateTime CreatedOn { get; set; }
 
         [Required]
+        public string JWTToken { get; set; } = string.Empty;
+
+        [Required]
+        public string JWTRefreshToken { get; set; } = string.Empty;
+
+        [Required]
         public DateTime Dob { get; set; }
     }
 
