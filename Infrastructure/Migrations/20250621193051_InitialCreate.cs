@@ -15,7 +15,8 @@ namespace Infrastructure.Migrations
                 name: "User",
                 columns: table => new
                 {
-                    UID = table.Column<string>(type: "nvarchar(450)", nullable: false),
+                    UID = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
                     Name = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Email = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     PassHash = table.Column<string>(type: "nvarchar(max)", nullable: false),
@@ -23,6 +24,8 @@ namespace Infrastructure.Migrations
                     PhraseHash = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     IsActive = table.Column<bool>(type: "bit", nullable: false),
                     CreatedOn = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    JWTToken = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    JWTRefreshToken = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Dob = table.Column<DateTime>(type: "datetime2", nullable: false)
                 },
                 constraints: table =>

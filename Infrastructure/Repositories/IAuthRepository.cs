@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Application.Interfaces;
 using Domain.Models;
 
@@ -27,7 +28,8 @@ namespace Infrastructure.Repositories
 
         public Task<string> Register(Users users)
         {
-            throw new NotImplementedException();
+            
+            return Task.FromResult("Success");
         }
 
         public Task<string> UpdateDob(int Uid, DateTime Dob)

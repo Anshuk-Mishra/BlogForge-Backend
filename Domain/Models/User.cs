@@ -6,7 +6,7 @@ namespace Domain.Models
     {
         [Required]
         [Key]
-        public string UID { get; set; } = string.Empty;
+        public int UID { get; set; }
 
         [Required]
         public string Name { get; set; } = string.Empty;
